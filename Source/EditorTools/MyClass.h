@@ -4,3 +4,12 @@
 
 #include "CoreMinimal.h"
 
+/**
+ * 
+ */
+class EDITORTOOLS_API MyClass
+{
+public:
+	MyClass();
+	~MyClass();
+};
